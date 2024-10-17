@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
     } else {
         // Si algún campo está vacío, mostrar un mensaje de advertencia
-        echo "Por favor, completa todos los campos de la tabla .";
+        echo "favor, completa todos los campos de la tabla .";
     }
 }
 
